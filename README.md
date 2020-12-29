@@ -1,2 +1,2 @@
-# sweet-mars-i3
-sweet mars theme for i3-gaps 
+# ![Sweet-Mars](images/sweet-mars-banner.png)
+Providing composition effects to Electron applications.

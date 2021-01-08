@@ -1,0 +1,2 @@
+[2020-12-20 17:20:15.568] [sharedprocess] [info] main {"machineId":"0e12edfd338b72b7e1873cdf998a482f26039c31bea02d6e2e71ed9220794a26","windowId":2}
+[2020-12-20 17:20:15.655] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/Code/User/snippets'

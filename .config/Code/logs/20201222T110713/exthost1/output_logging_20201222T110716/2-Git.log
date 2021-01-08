@@ -1,0 +1,16 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/codegrity/Github/space dotfiles
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/codegrity/Github/space dotfiles/README.md
+> git cat-file -s 771c9973611bb69562da2462896a9c5908e5fa15
+> git check-ignore -v -z --stdin

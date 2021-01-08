@@ -1,0 +1,5 @@
+Discord Presence activated!
+Logging into RPC...
+Encountered following error after trying to login:
+Error: Could not connect
+TypeError: Cannot read property 'write' of null

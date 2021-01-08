@@ -1,0 +1,10 @@
+[2021-01-06 08:44:07.037] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:07.037] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/polybar/.vscode'
+[2021-01-06 08:44:07.037] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210106T084357/output_1_20210106T084404 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:07.037] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210106T084357 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:07.037] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210106T084357 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:07.692] [renderer1] [error] Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol: Error: Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:6262:844
+    at async Promise.all (index 0)
+[2021-01-06 08:44:07.964] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:07.964] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)

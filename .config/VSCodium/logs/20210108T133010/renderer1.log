@@ -1,0 +1,11 @@
+[2021-01-08 13:30:19.205] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-08 13:30:19.205] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/polybar/.vscode'
+[2021-01-08 13:30:19.205] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210108T133010/output_1_20210108T133018 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-08 13:30:19.205] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210108T133010/output_1_20210108T133018 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-08 13:30:19.205] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210108T133010 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-08 13:30:19.205] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210108T133010 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-08 13:30:20.110] [renderer1] [error] Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol: Error: Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:6262:844
+    at async Promise.all (index 0)
+[2021-01-08 13:30:20.283] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-08 13:30:20.283] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)

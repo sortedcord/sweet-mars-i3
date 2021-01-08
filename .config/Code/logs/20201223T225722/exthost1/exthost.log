@@ -1,0 +1,28 @@
+[2020-12-23 22:57:24.409] [exthost] [info] extension host started
+[2020-12-23 22:57:24.518] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-12-23 22:57:24.519] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-23 22:57:24.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-23 22:57:24.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-23 22:57:24.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-23 22:57:24.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-23 22:57:24.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-23 22:57:24.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-23 22:57:24.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-23 22:57:24.565] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-23 22:57:24.567] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-23 22:57:24.567] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-23 22:57:24.569] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2020-12-23 22:57:24.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/codegrity/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension
+[2020-12-23 22:57:24.576] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2020-12-23 22:57:24.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/codegrity/.vscode/extensions/robbowen.synthwave-vscode-0.1.8/src/extension.js
+[2020-12-23 22:57:24.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2020-12-23 22:57:24.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-12-23 22:57:24.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-12-23 22:57:24.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2020-12-23 22:57:24.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-23 22:57:24.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-23 22:57:24.820] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-23 22:57:24.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-23 22:57:24.911] [exthost] [info] eager extensions activated
+[2020-12-23 22:57:24.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-12-23 22:57:24.937] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/52/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js

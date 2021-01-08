@@ -1,0 +1,18 @@
+[2021-01-05 14:15:39.239] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:15:39.239] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/polybar/.vscode'
+[2021-01-05 14:15:39.239] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-01-05 14:15:39.239] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-01-05 14:15:39.239] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings
+[2021-01-05 14:15:39.239] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T141535 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:15:39.239] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T141535 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:15:40.175] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T141535/output_1_20210105T141538 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:15:40.175] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T141535/output_1_20210105T141538 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:15:40.303] [renderer1] [error] Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol: Error: Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:6262:844
+    at async Promise.all (index 0)
+[2021-01-05 14:15:40.704] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-01-05 14:15:40.706] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-01-05 14:15:40.706] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings
+[2021-01-05 14:15:42.195] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-01-05 14:15:42.197] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-01-05 14:15:42.197] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings

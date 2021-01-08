@@ -1,0 +1,11 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "SynthWave '84",
+    "synthwave84.brightness": 1,
+    "workbench.iconTheme": "sweet-vscode-icons",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Hack",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.explorerKind": "external",
+    "terminal.external.linuxExec": "kitty",
+}

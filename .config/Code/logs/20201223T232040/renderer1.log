@@ -1,0 +1,2 @@
+[2020-12-23 23:20:42.505] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/Downloads/dotfiles-new-master/.config/.vscode'
+[2020-12-23 23:22:50.303] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/polybar/.vscode'

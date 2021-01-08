@@ -1,0 +1,8 @@
+[2020-12-23 23:20:44.052] [sharedprocess] [info] main {"machineId":"0e12edfd338b72b7e1873cdf998a482f26039c31bea02d6e2e71ed9220794a26","windowId":2}
+[2020-12-23 23:20:51.244] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2020-12-23 23:20:52.020] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code undefined
+[2020-12-23 23:20:52.089] [sharedprocess] [info] Extracted extension to /home/codegrity/.vscode/extensions/.arcticicestudio.nord-visual-studio-code-0.15.0: arcticicestudio.nord-visual-studio-code
+[2020-12-23 23:20:52.089] [sharedprocess] [info] Renamed to /home/codegrity/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2020-12-23 23:20:52.091] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2020-12-23 23:20:52.133] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code
+[2020-12-23 23:21:24.068] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,31 @@
+[2021-01-05 21:25:47.199] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:47.199] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/polybar/.vscode'
+[2021-01-05 21:25:47.200] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T212538/output_1_20210105T212545 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:47.200] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/spotify_wallpaper.py for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:47.200] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/spotify_wallpaper.py for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:47.200] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T212538 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:47.200] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T212538 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:47.797] [renderer1] [error] Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol: Error: Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:6262:844
+    at async Promise.all (index 0)
+[2021-01-05 21:25:48.331] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:48.331] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:51.048] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/get_spotify_status.sh for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:51.048] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/get_spotify_status.sh for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:51.750] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:51.750] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:56.698] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-01-05 21:25:56.708] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-01-05 21:25:56.708] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings
+[2021-01-05 21:25:57.140] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/settings.json for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:25:57.140] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/settings.json for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:28:57.875] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:28:57.875] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:29:11.082] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:29:11.082] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:31:29.949] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:31:29.949] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:32:09.113] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:32:09.113] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:32:43.031] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 21:32:43.031] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/config for changes using fs.watch() (TypeError: Cannot redefine property: owner)

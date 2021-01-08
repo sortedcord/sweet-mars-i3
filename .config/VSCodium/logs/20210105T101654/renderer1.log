@@ -1,0 +1,46 @@
+[2021-01-05 10:16:57.053] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:16:57.053] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/codegrity/.config/polybar/.vscode'
+[2021-01-05 10:16:57.053] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T101654/output_1_20210105T101655 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:16:57.053] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T101654/output_1_20210105T101655 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:16:57.053] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T101654 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:16:57.053] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/logs/20210105T101654 for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:16:57.357] [renderer1] [error] Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol: Error: Unable to load file:///home/codegrity/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/themes/synthwave-color-theme.json: Problems parsing JSON theme file: Invalid symbol
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:6262:844
+    at async Promise.all (index 0)
+[2021-01-05 10:16:58.338] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:16:58.339] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:17:07.081] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/get_spotify_status.sh for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:17:07.082] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/get_spotify_status.sh for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:25:23.877] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/spicetify/Extensions/fullAppDisplay.js for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:25:23.878] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/spicetify/Extensions/fullAppDisplay.js for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:34:21.809] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/get_spotify_status.sh for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 10:34:21.810] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/i3/get_spotify_status.sh for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:02:19.034] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/codegrity/.config/spicetify/Extensions/fullAppDisplay.js for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:02:19.035] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/spicetify/Extensions/fullAppDisplay.js for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-05 14:14:12.400] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2021-01-05 14:14:14.168] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2021-01-05 14:14:15.849] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2021-01-05 14:14:18.001] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2021-01-05 14:14:21.364] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2021-01-05 14:14:22.575] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2021-01-05 14:15:02.767] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-01-05 14:15:02.772] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-01-05 14:15:02.772] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings

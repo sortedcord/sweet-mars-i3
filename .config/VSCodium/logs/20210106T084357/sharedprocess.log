@@ -1,0 +1,5 @@
+[2021-01-06 08:44:03.419] [sharedprocess] [info] main {"machineId":"0e12edfd338b72b7e1873cdf998a482f26039c31bea02d6e2e71ed9220794a26","windowId":2}
+[2021-01-06 08:44:03.419] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:03.439] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.config/VSCodium/User/snippets for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:03.439] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/codegrity/.vscode-oss for changes using fs.watch() (TypeError: Cannot redefine property: owner)
+[2021-01-06 08:44:43.434] [sharedprocess] [info] Starting to clean up unused language packs.

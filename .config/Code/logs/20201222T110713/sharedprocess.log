@@ -1,0 +1,8 @@
+[2020-12-22 11:07:17.019] [sharedprocess] [info] main {"machineId":"0e12edfd338b72b7e1873cdf998a482f26039c31bea02d6e2e71ed9220794a26","windowId":2}
+[2020-12-22 11:07:57.058] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-22 11:24:05.596] [sharedprocess] [info] Installing extension: icrawl.discord-vscode
+[2020-12-22 11:24:06.225] [sharedprocess] [info] Downloaded extension: icrawl.discord-vscode undefined
+[2020-12-22 11:24:06.340] [sharedprocess] [info] Extracted extension to /home/codegrity/.vscode/extensions/.icrawl.discord-vscode-4.1.0: icrawl.discord-vscode
+[2020-12-22 11:24:06.340] [sharedprocess] [info] Renamed to /home/codegrity/.vscode/extensions/icrawl.discord-vscode-4.1.0
+[2020-12-22 11:24:06.342] [sharedprocess] [info] Installation completed. icrawl.discord-vscode
+[2020-12-22 11:24:06.386] [sharedprocess] [info] Extensions installed successfully: icrawl.discord-vscode
